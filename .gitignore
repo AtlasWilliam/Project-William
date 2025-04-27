@@ -1,0 +1,13 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python environment folders
+venv/
+__pycache__/
+
+# Ignore editor settings
+.vscode/
+
+# Ignore secrets files
+.env
